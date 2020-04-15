@@ -1,0 +1,10 @@
+name: "Andrew Mejia Website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project_1"
+      href: Project_1.html
+    - text: "Project_2"
+      href: Project_2.html
