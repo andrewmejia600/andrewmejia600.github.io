@@ -8,3 +8,6 @@ navbar:
       href: Project_1.html
     - text: "Project_2"
       href: Project_2.html
+    - text: "Predicting Corona Curves for TX"
+      href: https://nbviewer.jupyter.org/github/andrewmejia600/CoronaCurves/blob/master/Corona%20Curve%20Forecast%20Texas%202.ipynb
+
